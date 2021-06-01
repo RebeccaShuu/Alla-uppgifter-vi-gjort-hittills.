@@ -1,0 +1,42 @@
+#Blue{
+    width:100%;
+    height:15vh;
+    Background-color:blue; 
+    border-radius:30px;
+    margin:auto;
+    text-align:center;
+}
+
+#Orange{
+    Background-color:Orange;
+    width:30%;
+    height:50vh;
+    margin:12px;
+    border-radius:30px;
+    float: left;
+    text-align:center;
+}
+
+#Gray{
+    Background-color:Gray;
+    width:66%;
+    height:50vh;
+    margin:12px;
+    border-radius:30px;
+    float: left;
+    text-align:center;
+}
+    
+
+#Green{
+    background-color: green;
+    width:100%;
+    Height: 15vh;
+    float:left;
+    border-radius:30px;
+    text-align:center;
+    
+}
+h2{
+    color: white;
+}

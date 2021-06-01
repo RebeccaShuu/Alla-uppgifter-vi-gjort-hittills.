@@ -1,0 +1,20 @@
+#Green{
+    width:33.33%;
+    height:100vh;
+    Background-color:green;
+    float:left;
+}
+
+#White{
+    width:33.33%;
+    height:100vh;
+    Background-color:white;
+    float:left;
+}
+
+#Red{
+    width:33.33%;
+    height:100vh;
+    Background-color:red;
+    float:left;
+}
